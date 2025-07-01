@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Calvin 👋
 
-<!--
-**CalvinC44/CalvinC44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dev who loves building things with code (and beyond).  
+From web apps to real-time games, and now diving into AI + robotics.
 
-Here are some ideas to get you started:
+🛠️ Tech I use:
+- React, Next.js, TypeScript
+- Node.js, Socket.IO, PostgreSQL, Supabase, Prisma
+- Docker, GitHub Actions
+- Learning Python & C++ AI for AI, robotics and embedded systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Portfolio: [calvinchiff.com](https://calvinchiff.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinchiff&layout=compact&langs_count=6)
