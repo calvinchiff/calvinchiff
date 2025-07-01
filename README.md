@@ -11,4 +11,4 @@ From web apps to real-time games, and now diving into AI + robotics.
 
 🔗 Portfolio: [calvinchiff.com](https://calvinchiff.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinchiff&layout=compact&langs_count=6)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinchiff&layout=compact&langs_count=6) --!>
