@@ -7,7 +7,7 @@ From web apps to real-time games, and now diving into AI + robotics.
 - React, Next.js, TypeScript
 - Node.js, Socket.IO, PostgreSQL, Supabase, Prisma
 - Docker, GitHub Actions
-- Learning Python & C++ AI for AI, robotics and embedded systems
+- Learning Python & C++ for AI, robotics and embedded systems
 
 🔗 Portfolio: [calvinchiff.com](https://calvinchiff.com)
 
