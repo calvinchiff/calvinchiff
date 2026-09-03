@@ -5,9 +5,10 @@ From web apps to real-time games, and now diving into AI + robotics.
 
 🛠️ Tech I use:
 - React, Next.js, TypeScript
-- Node.js, Socket.IO, PostgreSQL, Supabase, Prisma
+- Node.js
+- Python, FastAPI
 - Docker, GitHub Actions
-- Learning Python & C++ for AI, robotics and embedded systems
+- Huge interest in AI (ML,RL,MARL), robotics and embodied AI
 
 🔗 Portfolio: [calvinchiff.com](https://calvinchiff.com)
 
