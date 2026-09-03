@@ -8,7 +8,7 @@ From web apps to real-time games, and now diving into AI + robotics.
 - Node.js
 - Python, FastAPI
 - Docker, GitHub Actions
-- Huge interest in AI (ML,RL,MARL), robotics and embodied AI
+- Huge interest in AI (ML,RL,HRL,MARL) for robotics and embodied AI
 
 🔗 Portfolio: [calvinchiff.com](https://calvinchiff.com)
 
