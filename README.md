@@ -1,3 +1,1 @@
-### 👋
-
-🔗 Portfolio: [calvinchiff.com](https://calvinchiff.com)
+### 👋 [calvinchiff.com](https://calvinchiff.com)
